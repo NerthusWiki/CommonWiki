@@ -1,6 +1,3 @@
----
-title: Document Center
----
 ## System umiejętności ##
 ***
 Poziomy umiejętności są podzielone w następujący sposób:
