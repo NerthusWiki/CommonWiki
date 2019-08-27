@@ -70,6 +70,7 @@ Spis umiejętności:
 		- Walka z użyciem broni miotanej: X
 		- Walka z użyciem broni nietypowej: X
 		- Walka z użyciem broni palnej: X
+		
 		W przypadku umiejętności zawierających „X” w nazwie przed ich wyborem należy zadecydować o dokładnym typie do którego odnosi się umiejętność, np. w przypadku walki bronią sieczną należy wybrać jeden z rodzajów broni siecznej, w tym przykładzie niech będzie to miecz dwuręczny. Wtedy w karcie postaci należy zapisać „Walka bronią sieczną: miecz dwuręczny”
 	- Defensywne:
 		- Akrobatyka
@@ -88,6 +89,7 @@ Spis umiejętności:
 		- Poznanie
 		- Zaklinanie
 		- Zniszczenie
+		
 	Aby móc rozpocząć naukę jakiejkolwiek szkoły magii, gracz musi zainwestować 5 punktów w umiejętność "Potencjał magiczny". Rozwój kolejnych poziomów szkół magicznych odbywa się na tych samych zasadach, co umiejętności fizyczne. Dodatkowo na poziomy mistrza i arcymistrza należy przygotować odpowiednie "prace naukowe". Potencjał magiczny sam w sobie nie jest szkołą magiczną, jedynie umiejętnością pomocniczą.
 - Przystosowanie
 	- Fałszerstwo
@@ -108,6 +110,7 @@ Spis umiejętności:
 	- Zielarstwo
 	- Zoologia
 - Dodatkowe
+
 	Jako umiejętności dodatkowe rozumiemy gotowanie, wędkarstwo, granie w karty itp. Nie są one punktowane ani stopniowane, każdy gracz może wpisać dowolną ilość umiejętności dodatkowych. Rada zastrzega sobie prawo do kontroli umiejętności dodatkowych oraz nakazania podmiotowi modyfikacji wpisanych zdolności.
 	
 ***
