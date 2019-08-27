@@ -101,7 +101,7 @@ Pozycje zawierające "X" w nazwie wymagają sprecyzowania, co jest dokładnie pr
     + Wraz z poziomem wzrasta celność oraz umiejętność manewrowania bronią.
     + W przypadku broni przystosowanej jedynie do walki z siodła (np. lanca) ta umiejętność zastępuje normalną umiejętność walki.
     + Mistrz/Arcymistrz może walczyć dosiadając nieprzystosowanych do tego zwierząt.
-    + * Za „X” podstawiamy całą dziedzinę broni, np. broń sieczna bądź specyficzną broń do korzystania jedynie z siodła (np. lancę).
+    + \* Za „X” podstawiamy całą dziedzinę broni, np. broń sieczna bądź specyficzną broń do korzystania jedynie z siodła (np. lancę).
 + Walka wręcz
     + Walka z użyciem pięści, nóg, oraz wszelkich części ciała bez użycia broni lub z wykorzystaniem jedynie kastetów/rękawic bojowych.
     + Wraz z poziomem zwiększa się zwinność, szybkość reakcji na ciosy przeciwnika, siła uderzeń oraz umiejętność wykonywania zaawansowanych chwytów (np. dźwignie).
