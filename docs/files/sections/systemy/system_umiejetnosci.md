@@ -20,7 +20,7 @@ Zaawansowany    |        3|         6
 Mistrzowski     |        4|        10
 Arcymistrzowski |        5|        15
 
-Więcej informacji o awansowaniu znajdziesz w artykule o [rozwoju postaci](https://www.github.com/).
+Więcej informacji o awansowaniu znajdziesz w artykule o [rozwoju postaci](https://nerthuswiki.github.io/CommonWiki/files/ups.html).
 
 ***
 
@@ -39,23 +39,23 @@ Co trzy miesiące obowiązkowo należy odjąć jeden punkt ze swojej puli punkto
 
 Każdy z graczy sam zarządza swoimi punktami. Zalecane jest zapisywanie ich aktualnego stanu w Karcie Postaci - te są okresowo sprawdzane przez Radę pod kątem prawidłowości w ilości punktów.
 
-Informacje o rozdzielaniu punktów w Karcie Postaci znajdziesz w artykule [Rozdawanie punktów w Karcie Postaci](https://www.github.com/).
+Informacje o rozdzielaniu punktów w Karcie Postaci znajdziesz w artykule o [rozdawaniu punktów w Karcie Postaci](https://nerthuswiki.github.io/CommonWiki/files/ups.html).
 
 ***
 
 ### Języki ###
 Podczas tworzenia nowej postaci gracz może przydzielić jej za darmo dwa języki: ojczysty i wspólny. Każdy kolejny język zużywa na stałe 1 PU.
 
-Więcej o językach przeczytasz w [tym artykule](https://www.github.com/).
+Więcej o językach przeczytasz w [poświęconym im artykule](https://nerthuswiki.github.io/CommonWiki/files/ups.html).
 
 ***
 
 ### Magia ###
-Aby móc korzystać z magii, należy najpierw rozwinąć Potencjał Magiczny - to zdolność pozbawiona jakichkolwiek właściwości, wymagana wyłącznie do stosowania umiejętności magicznych. Te są podzielone według szkół, a sposób ich wykorzystywania regulowany jest przez dobór [elementów magicznych](https://www.github.com/) przez gracza.
+Aby móc korzystać z magii, należy najpierw rozwinąć Potencjał Magiczny - to zdolność pozbawiona jakichkolwiek właściwości, wymagana wyłącznie do stosowania umiejętności magicznych. Te są podzielone według szkół, a sposób ich wykorzystywania regulowany jest przez dobór [elementów magicznych](https://nerthuswiki.github.io/CommonWiki/files/ups.html) przez gracza.
 
 Za punkty można również kupić atrybuty magiczne wpływające na możliwości czarowania przez postać.
 
-Rozdawanie umiejętności magicznych oraz korzystanie z nich jest opisane w [Systemie Magii](https://www.github.com/).
+Rozdawanie umiejętności magicznych oraz korzystanie z nich jest opisane w [Systemie Magii](https://nerthuswiki.github.io/CommonWiki/files/ups.html).
 
 ***
 
