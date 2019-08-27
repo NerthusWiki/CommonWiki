@@ -1,10 +1,10 @@
-# System Umiejętności {#system-umiejetnosci-1} #
+# System Umiejętności #
 
-## Opis {#opis-2} ##
+## Opis ##
 System Umiejętności (SU) to standard zarządzania zdolnościami opisywanymi w Karcie Postaci. Obowiązuje wszystkich graczy odgrywających postać na Nerthusie. Jest systemem nadrzędnym wobec Systemu Magii (SM). Zarządza nim, utrzymuje i aktualizuje Rada Fabularna świata Nerthus.
 
-## Treść {#tresc-3} ##
-### Poziomy {#poziomy-4} ###
+## Treść ##
+### Poziomy ###
 Każda z umiejętności zawarta w karcie postaci musi mieć przypisany poziom. Awans na kolejny poziom kosztuje ilość Punktów Umiejętności (PU) równą sumie wysokości poprzednich poziomów oraz wysokości danego poziomu.
 
 Warunki awansowania:
@@ -24,7 +24,7 @@ Więcej informacji o awansowaniu znajdziesz w artykule o [rozwoju postaci](https
 
 ***
 
-### Nadawanie Punktów Umiejętności {#nadawanie-punktow-umiejetnosci-5} ###
+### Nadawanie Punktów Umiejętności ###
 Każda postać nowego gracza otrzymuje na start 12 punktów. Gracze tworzący kolejną postać mogą wykorzystać maksymalnie połowę punktów swojej poprzedniej postaci (zaokrąglając w górę).
 **Ważne!** Punkty niewykorzystane w trakcie tworzenia nowej postaci przepadają bezpowrotnie.
 
@@ -43,14 +43,14 @@ Informacje o rozdzielaniu punktów w Karcie Postaci znajdziesz w artykule [Rozda
 
 ***
 
-### Języki {#jezyki-6} ###
+### Języki ###
 Podczas tworzenia nowej postaci gracz może przydzielić jej za darmo dwa języki: ojczysty i wspólny. Każdy kolejny język zużywa na stałe 1 PU.
 
 Więcej o językach przeczytasz w [tym artykule](https://www.github.com/).
 
 ***
 
-### Magia {#magia-7} ###
+### Magia ###
 Aby móc korzystać z magii, należy najpierw rozwinąć Potencjał Magiczny - to zdolność pozbawiona jakichkolwiek właściwości, wymagana wyłącznie do stosowania umiejętności magicznych. Te są podzielone według szkół, a sposób ich wykorzystywania regulowany jest przez dobór [elementów magicznych](https://www.github.com/) przez gracza.
 
 Za punkty można również kupić atrybuty magiczne wpływające na możliwości czarowania przez postać.
@@ -59,12 +59,12 @@ Rozdawanie umiejętności magicznych oraz korzystanie z nich jest opisane w [Sys
 
 ***
 
-### Umiejętności dodatkowe {#umiejetnosci-dodatkowe-8} ###
+### Umiejętności dodatkowe ###
 Jako takie rozumiemy wszystkie zdolności niezawarte w Systemie Umiejętności, także niestanowiące substytutu dla już istniejących. Nie są one stopniowane ani nie kosztują one punktów umiejętności - stanowią wyłącznie element budowania postaci. Ilość dopuszczonych umiejętności tego typu jest dowolna.
 
 ***
 
-### Dodawanie nowych pozycji do Systemu Umiejętności {#dodawanie-nowych-pozycji-do-systemu-umiejetnosci-9} ###
+### Dodawanie nowych pozycji do Systemu Umiejętności ###
 Każdy gracz może zgłosić się do Rady z propozycją dodania nowej umiejętności do spisu. Takie zgłoszenie powinno zawierać:
 + Nazwę
 + Krótki opis
@@ -74,10 +74,10 @@ Rada zastrzegła sobie prawo do odrzucenia zaproponowanej umiejętności bez pod
 
 ***
 
-## Spis umiejętności {#spis-umiejetnosci-10} ##
+## Spis umiejętności ##
 Pozycje zawierające "X" w nazwie wymagają sprecyzowania, co jest dokładnie przedmiotem danej umiejętności - np. rodzaj broni, rasa zwierzęcia, etc.
 
-### Ofensywne {#ofensywne-11} ##
+### Ofensywne ##
 + Obsługa maszyn oblężniczych
     + Umiejętność obsługi wszelkiego rodzaju maszyn oblężniczych oraz koordynowaniu ich obsługi.
     + Wraz z poziomem wzrasta szybkość obsługi, umiejętność obsługiwania coraz to bardziej skomplikowanych maszyn oraz umiejętność zapanowania nad większą ilością osób pracujących przy maszynach jednocześnie.
@@ -126,4 +126,4 @@ Pozycje zawierające "X" w nazwie wymagają sprecyzowania, co jest dokładnie pr
 
 ***
 
-### Defensywne {#defensywne-12} ##
+### Defensywne ##
