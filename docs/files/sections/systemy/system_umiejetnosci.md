@@ -12,13 +12,13 @@ Warunki awansowania:
 + Awans do poziomu arcymistrzowskiego wymaga dodatkowo pomyślnie rozegranej sesji związanej z rozwijaną zdolnością
 + Rozwinięcie umiejętności magicznych do poziomu mistrzowskiego bądź arcymistrzowskiego każdorazowo wymaga stworzenia pracy pisemnej nt. rozwijanej zdolności
 
-Poziom|Wysokość|Koszt (PU)
-------|---------|----------
-Podstawowy|1|1
-Adept|2|3
-Zaawansowany|3|6
-Mistrzowski|4|10
-Arcymistrzowski|5|15
+Poziom          |Wysokość |Koszt (PU)
+----------------|---------|----------
+Podstawowy      |        1|         1
+Adept           |        2|         3
+Zaawansowany    |        3|         6
+Mistrzowski     |        4|        10
+Arcymistrzowski |        5|        15
 
 Więcej informacji o awansowaniu znajdziesz w artykule o [rozwoju postaci](https://www.github.com/).
 
