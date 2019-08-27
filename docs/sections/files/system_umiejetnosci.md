@@ -4,10 +4,10 @@
 
 Poziomy umiejętności są podzielone w następujący sposób:
 1. Początkujący [1/5]
-2. Adept        [2/5]
+2. Adept [2/5]
 3. Zaawansowany [3/5]
-4. Mistrz       [4/5]
-5. Arcymistrz   [5/5]
+4. Mistrz [4/5]
+5. Arcymistrz [5/5]
 
 ***
 
