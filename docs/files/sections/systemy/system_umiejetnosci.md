@@ -1,125 +1,129 @@
-## System umiejętności ##
+# System Umiejętności {#system-umiejetnosci-1} #
+
+## Opis {#opis-2} ##
+System Umiejętności (SU) to standard zarządzania zdolnościami opisywanymi w Karcie Postaci. Obowiązuje wszystkich graczy odgrywających postać na Nerthusie. Jest systemem nadrzędnym wobec Systemu Magii (SM). Zarządza nim, utrzymuje i aktualizuje Rada Fabularna świata Nerthus.
+
+## Treść {#tresc-3} ##
+### Poziomy {#poziomy-4} ###
+Każda z umiejętności zawarta w karcie postaci musi mieć przypisany poziom. Awans na kolejny poziom kosztuje ilość Punktów Umiejętności (PU) równą sumie wysokości poprzednich poziomów oraz wysokości danego poziomu.
+
+Warunki awansowania:
++ Umiejętności do poziomu mistrzowskiego włącznie można kupić za odpowiednią liczbę PU
++ Awans do poziomu arcymistrzowskiego wymaga dodatkowo pomyślnie rozegranej sesji związanej z rozwijaną zdolnością
++ Rozwinięcie umiejętności magicznych do poziomu mistrzowskiego bądź arcymistrzowskiego każdorazowo wymaga stworzenia pracy pisemnej nt. rozwijanej zdolności
+
+Poziom|Wysokość|Koszt (PU)
+------|---------|----------
+Podstawowy|1|1
+Adept|2|3
+Zaawansowany|3|6
+Mistrzowski|4|10
+Arcymistrzowski|5|15
+
+Więcej informacji o awansowaniu znajdziesz w artykule o [rozwoju postaci](https://www.github.com/).
 
 ***
 
-Poziomy umiejętności są podzielone w następujący sposób:
-1. Początkujący [1/5]
-2. Adept [2/5]
-3. Zaawansowany [3/5]
-4. Mistrz [4/5]
-5. Arcymistrz [5/5]
+### Nadawanie Punktów Umiejętności {#nadawanie-punktow-umiejetnosci-5} ###
+Każda postać nowego gracza otrzymuje na start 12 punktów. Gracze tworzący kolejną postać mogą wykorzystać maksymalnie połowę punktów swojej poprzedniej postaci (zaokrąglając w górę).
+**Ważne!** Punkty niewykorzystane w trakcie tworzenia nowej postaci przepadają bezpowrotnie.
+
+Punkty rozliczane są miesięcznie.
+Każdy gracz może przydzielić sobie jeden punkt, o ile będzie aktywny. Aby zostać uznanym za aktywnego, należy spełnić w danym miesiącu jeden z dwóch warunków:
++ Rozegranie w jednej sesji fabularnej
++ Udział jednej rozbudowanej (min. 5 komend) interakcji z postacią innego gracza, gdzie ta interakcja opiera się na umiejętności, którą gracz chce rozwinąć
+
+Dodatkowo można uzyskać do czterech punktów za branie udziału w większej ilości sesji, jako nagrodę za szczególnie udane działanie podczas sesji bądź wykazywanie znacznej aktywności w rozgrywce. Punkty są każdorazowo przyznawane przez narratora (bądź narratorów) prowadzącego sesję. Można również uzyskać punkty w ramach ponadprogramowej aktywności, o ile dostarczy się któremuś z narratorów screenshooty ukazujące ją.
+
+Co trzy miesiące obowiązkowo należy odjąć jeden punkt ze swojej puli punktowej, niezależnie od aktywności w rozgrywce. Przepada on bezpowrotnie.
+
+Każdy z graczy sam zarządza swoimi punktami. Zalecane jest zapisywanie ich aktualnego stanu w Karcie Postaci - te są okresowo sprawdzane przez Radę pod kątem prawidłowości w ilości punktów.
+
+Informacje o rozdzielaniu punktów w Karcie Postaci znajdziesz w artykule [Rozdawanie punktów w Karcie Postaci](https://www.github.com/).
 
 ***
 
-Umiejętności rozwijamy za pomocą punktów umiejętności, które można zdobyć w następujące sposoby i w następujących ilościach:
-- 1 punkt miesięcznie - poprzez aktywną grę w klimacie, gdzie za aktywną grę uznajemy:
-	- wzięcie udziału w przynajmniej jednej sesji zapowiedzianej
-	- wzięcie udziału w przynajmniej jednej sesji niezapowiedzianej
-	- wejście w przynajmniej jedną rozbudowaną interakcję (min. 5 komend) z innym graczem, gdzie interakcja powinna opierać się na umiejętności, którą gracz chce rozwinąć.
-	By zostać uznanym za gracza aktywnego klimatycznie wystarczy spełnić jeden z podanych wyżej warunków, nie zaś wszystkie trzy. Punkty przyznawane są automatycznie, gracz więc samemu może je dowolnie wykorzystać. Rada zastrzega sobie jednak prawo do zweryfikowania, czy gracz rzeczywiście był aktywny w okresie, w którym punkty sobie przyznawał. Punkt za aktywną grę w klimacie jest przyznawany pierwszego dnia następnego miesiąca.
-- 1-4 punktów miesięcznie – poprzez branie udziału w sesjach zapowiedzianych/niezapowiedzianych, w ramach nagrody za szczególnie udane działanie w trakcie sesji lub nagrodę za pomyślne jej ukończenie, a także poprzez wykazywanie aktywności znacznie przekraczającej kryteria zawarte w podpunkcie a). Punkty są przyznawane przez narratora odpowiedzialnego za daną sesję. W przypadku, gdy narratorów jest więcej niż jeden decyzja o przyznaniu punktów musi zostać podjęta zgodnie przez wszystkich narratorów, nie działa tu prawo większości głosów. W ramach ponadprogramowej aktywności punkty przyznaje narrator, któremu dostarczy się dowody wykazujące ww. aktywność.
+### Języki {#jezyki-6} ###
+Podczas tworzenia nowej postaci gracz może przydzielić jej za darmo dwa języki: ojczysty i wspólny. Każdy kolejny język zużywa na stałe 1 PU.
 
-O wszelkich limitach punktowych powinien pamiętać gracz, samemu także powinien zapisywać aktualnie posiadaną liczbę punktów umiejętności. Rada zastrzega sobie jednak prawo do sprawdzenia, czy gracz nie stara się manipulować punktami umiejętności na swoją korzyść.
+Więcej o językach przeczytasz w [tym artykule](https://www.github.com/).
 
 ***
 
-Rozwój umiejętności do kolejnego poziomu zaawansowania wymaga ilości punktów umiejętności równej poziomowi zaawansowania na jaki chcemy rozwinąć umiejętność oraz umiejętności pokrewnych wymaganych, by daną umiejętność zdobyć. Jedynymi wyjątkami od tej zasady są poziomy mistrza (w przypadku umiejętności magicznych) i arcymistrza, które wymagają także dodatkowej aktywności ze strony gracza. Wygląda to następująco:
-1. Początkujący [1/5] – wymagany jest jeden punkt umiejętności.
-2. Adept [2/5] – wymagane są dwa punkty umiejętności i wcześniejsze posiadanie rozwijanej umiejętności na poziomie 1/5.
-3. Zaawansowany [3/5] – wymagane są trzy punkty umiejętności i wcześniejsze posiadanie rozwijanej umiejętności na poziomie 2/5. 
-4. Mistrz [4/5] – wymagane są cztery punkty umiejętności i wcześniejsze posiadanie rozwijanej umiejętności na poziomie 3/5.
-	W przypadku, gdy jest to umiejętność magiczna należy wraz z rozwojem umiejętności przesłać Radzie „pracę naukową” napisaną przez postać gracza. Praca powinna być ściśle związana z zagadnieniem magii. Może to być rozprawa o tym jak dana szkoła magii działa z poszczególnymi elementami, czy też zwykłe rozważania teoretyczne na temat magii i jej możliwości. Musi ona opierać się na bardziej złożonych dziedzinach lub bardzo dobrze wyjaśniać te podstawowe. Minimalna długość pracy to dwie kartki A4 zapisana czcionką Calibri w rozmiarze 11 z domyślnymi dla programu, w którym gracz tekst zapisał marginesami.
-5. Arcymistrz [5/5] – wymagane jest pięć punktów umiejętności i wcześniejsze posiadanie rozwijanej umiejętności na poziomie 4/5, a także stworzenie kolejnej "pracy naukowej" opierającej się na zaawansowanej dziedzinie magii. Dodatkowo gracz przy zwiększaniu umiejętności do tego poziomu powinien zgłosić się do Rady w celu odbycia sesji indywidualnej mającej sprawdzić jego umiejętności opisywania działań związanych z daną umiejętnością. Sesję może poprowadzić dowolny Radny lub też dowolny wyznaczony przez Radę narrator.
+### Magia {#magia-7} ###
+Aby móc korzystać z magii, należy najpierw rozwinąć Potencjał Magiczny - to zdolność pozbawiona jakichkolwiek właściwości, wymagana wyłącznie do stosowania umiejętności magicznych. Te są podzielone według szkół, a sposób ich wykorzystywania regulowany jest przez dobór [elementów magicznych](https://www.github.com/) przez gracza.
 
-Uwaga: Podniesienie umiejętności magicznych na poziom mistrzowski i arcymistrzowski możliwe jest dopiero po napisaniu i zaakceptowaniu przez radę pracy (oraz oczywiście posiadaniu odpowiedniej ilości punktów)
+Za punkty można również kupić atrybuty magiczne wpływające na możliwości czarowania przez postać.
 
-Maksymalne rozwinięcie umiejętności trwa maksymalnie piętnaście miesięcy, a minimalnie niecałe dwa miesiące, gdzie przeciętnie grający gracz powinien być w stanie rozwinąć pojedynczą umiejętność do poziomu arcymistrzowskiego w ciągu pół roku.
+Rozdawanie umiejętności magicznych oraz korzystanie z nich jest opisane w [Systemie Magii](https://www.github.com/).
 
 ***
 
-Co trzy miesiące gracz ma obowiązek przydzielenia sobie punktu ujemnego (-1), niezależnie od tego czy jest aktywny, czy nieaktywny w klimacie. W przypadku gdyby gracz był nieobecny przez dłuższy czas po powrocie ma obowiązek zmniejszenia umiejętności o liczbę punktów ujemnych, które w tym czasie otrzymał. Dla przykładu ktoś nieobecny przez równy rok po powrocie powinien odjąć cztery punkty. W wypadku gdyby gracz był zmuszony do zmniejszenia całego poziomu umiejętności wymagających dodatkowych działalności ze strony gracza, będzie musiał podjąć je raz jeszcze. Rada zastrzega sobie możliwość sprawdzenia tego, czy gracz rzeczywiście przydziela sobie ujemne punkty. Punkty ujemne są przydzielane w miesiące podzielne przez 3 (to jest marzec, czerwiec, wrzesień, grudzień)
+### Umiejętności dodatkowe {#umiejetnosci-dodatkowe-8} ###
+Jako takie rozumiemy wszystkie zdolności niezawarte w Systemie Umiejętności, także niestanowiące substytutu dla już istniejących. Nie są one stopniowane ani nie kosztują one punktów umiejętności - stanowią wyłącznie element budowania postaci. Ilość dopuszczonych umiejętności tego typu jest dowolna.
 
 ***
 
-Gracz tworzący nową postać lub swoją pierwszą postać na Nerthusie otrzymuje na start dwanaście (12) punktów umiejętności. Gracz nie może na początku swojej rozgrywki rozwinąć umiejętności do poziomu wyższego, niż zaawansowany [3/5], a maksymalna ilość umiejętności, których może się nauczyć wynosi sześć. Tak więc gracz nie może pomimo odpowiedniej ilości punktów zdecydować się na dwanaście umiejętności na poziomie podstawowym. W przypadku śmierci postaci gracza, traci on połowę zdobytych punktów. Punkty niezużyte w trakcie tworzenia nowej karty postaci przepadają, nie można ich zachować, by wykorzystać je w późniejszym terminie. Rada zastrzega sobie prawo do sprawdzenia tego, czy gracz tworzący nową postać zastosował się do systemu umiejętności oraz prawo do zezwolenia graczowi na wykorzystanie większej ilości punktów lub też wykorzystanie ich w sposób inny, niż opisany.
+### Dodawanie nowych pozycji do Systemu Umiejętności {#dodawanie-nowych-pozycji-do-systemu-umiejetnosci-9} ###
+Każdy gracz może zgłosić się do Rady z propozycją dodania nowej umiejętności do spisu. Takie zgłoszenie powinno zawierać:
++ Nazwę
++ Krótki opis
++ Zdolności i możliwości oferowane przez umiejętność (z rozróżnieniem na poziomy)
+
+Rada zastrzegła sobie prawo do odrzucenia zaproponowanej umiejętności bez podania wyjaśnienia.
 
 ***
 
-Każdy dodatkowo język, pismo bądź dialekt rasowy używany przez gracza kosztuje jeden punkt umiejętności i nie jest w żaden sposób stopniowany. Gracz może samemu zdecydować jaki jest jego poziom zaawansowania w danej mowie po jej zakupieniu. Gracze grający rasami innymi, niż człowiek mogą w momencie tworzenia karty postaci dodać swojej postaci dodatkowy, darmowy język, będący językiem rasowym postaci. Każdy gracz otrzymuje na początek rozgrywki umiejętność wypowiadania się w języku wspólnym, chyba że dobrowolnie z tego języka zrezygnuje.
+## Spis umiejętności {#spis-umiejetnosci-10} ##
+Pozycje zawierające "X" w nazwie wymagają sprecyzowania, co jest dokładnie przedmiotem danej umiejętności - np. rodzaj broni, rasa zwierzęcia, etc.
+
+### Ofensywne {#ofensywne-11} ##
++ Obsługa maszyn oblężniczych
+    + Umiejętność obsługi wszelkiego rodzaju maszyn oblężniczych oraz koordynowaniu ich obsługi.
+    + Wraz z poziomem wzrasta szybkość obsługi, umiejętność obsługiwania coraz to bardziej skomplikowanych maszyn oraz umiejętność zapanowania nad większą ilością osób pracujących przy maszynach jednocześnie.
++ Posługiwanie się materiałami wybuchowymi
+    + Umiejętność posługiwania się wszelkiego rodzaju materiałami wybuchowymi, w tym granatami, ale nie tylko.
+    + Wraz z poziomem wzrasta celność rzutów granatami oraz zmniejsza się ryzyko niewypału ze względu na błąd użytkownika. Wyższe poziomy pozwalają na zakładanie bardziej zaawansowanych instalacji z użyciem materiałów wybuchowych bez ryzyka przypadkowego wybuchu.
++ Walka bronią drzewcową: X
+    + Walka z użyciem wszelkiego rodzaju włóczni, halabard itd.
+    + W przypadku broni drzewcowej do korzystania jedynie z konia zamiast tej umiejętności wymagana jest umiejętność "Walka z siodła".
+    + Wraz z poziomem zwiększa się kontrola nad bronią, szybkość wykonywania akcji i umiejętność trzymania przeciwnika na dystans.
++ Walka bronią obuchową: X
+    + Walka z użyciem wszelkiego rodzaju młotów i pałek.
+    + Przy określaniu broni należy do tego określić czy jest to broń jednoręczna, półtora ręczną czy dwuręczna. Bonusy do korzystania z innych broni jedynie w obrębie danych typów.
+    + Wraz z poziomem wzrasta siła, celność oraz kontrola nad bronią.
++ Walka bronią sieczną: X
+    + Walka z użyciem wszelkiego rodzaju mieczy, toporów itd.
+    + Przy określaniu broni należy do tego określić czy jest to broń jednoręczna, półtora ręczną czy dwuręczna. Bonusy do korzystania z innych broni jedynie w obrębie danych typów.
+    + Wraz z poziomem wzrasta szybkość, celność i siła ciosów, a w przypadku broni nadającej się do tego również umiejętność parowania ciosów.
++ Walka w siodle: X*
+    + Umiejętność walki wszelkiego rodzaju broniami będąc w siodle.
+    + Wraz z poziomem wzrasta celność oraz umiejętność manewrowania bronią.
+    + W przypadku broni przystosowanej jedynie do walki z siodła (np. lanca) ta umiejętność zastępuje normalną umiejętność walki.
+    + Mistrz/Arcymistrz może walczyć dosiadając nieprzystosowanych do tego zwierząt.
+    + * Za „X” podstawiamy całą dziedzinę broni, np. broń sieczna bądź specyficzną broń do korzystania jedynie z siodła (np. lancę).
++ Walka wręcz
+    + Walka z użyciem pięści, nóg, oraz wszelkich części ciała bez użycia broni lub z wykorzystaniem jedynie kastetów/rękawic bojowych.
+    + Wraz z poziomem zwiększa się zwinność, szybkość reakcji na ciosy przeciwnika, siła uderzeń oraz umiejętność wykonywania zaawansowanych chwytów (np. dźwignie).
++ Walka z pomocą broni pomocniczej: X
+    + Walka z pomocą broni pomocniczej (np. lewak), przy jednoczesnym korzystaniu z broni głównej.
+    + Wraz z poziomem wzrasta możliwa aktywność broni pomocniczej w walce oraz jej szybkość reakcji.
+    + Przy stosowaniu umiejętność jest limitowana przez umiejętność stosowania broni głównej. To jest mając Arcymistrza w tej dziedzinie i walcząc mieczem mając jedynie umiejętność walki mieczem na Podstawowym umiejętność walki z pomocą broni pomocniczej będzie się zachowywała tak, jakby również była na poziomie Podstawowym.
++ Walka z użyciem broni dystansowej: X
+    + Walka z użyciem wszelakiego rodzaju łuków, kusz, ale nie tylko.
+    + Wraz z poziomem wzrasta celność i szybkość strzałów oraz odległość na jaką osoba jest w stanie strzelać celnie.
++ Walka z użyciem broni miotanej:
+    + Walka z użyciem wszelkiego rodzaju oszczepów, ale również i proc.
+    + Wraz z poziomem wzrasta celność i siła rzutów oraz szybkość przygotowywania kolejnych.
++ Walka z użyciem broni nietypowej: X
+    + Walka z użyciem broni, która po prostu nie pasuje do innych formatów.
+    + Wraz z poziomem wzrastają umiejętności wykorzystania danej broni.
+    + Z racji unikalności przy tej umiejętności inne bronie nie dostają bonusów dzięki umiejętności jednej broni. Np. Osoba z „Walka z użyciem broni nietypowej: krzesło [5/5]” przy korzystaniu z patelni nie będzie miała żadnych umiejętności, jak to bywa przy innych typach broni.
++ Walka z użyciem broni palnej: X
+    + Walka z użyciem wszelkiego rodzaju broni ręcznej zasilanej prochem, np. pistolety skałkowe bądź muszkiety.
+    + Wraz z poziomem wzrasta celność i szybkość przeładowania oraz zmniejsza się ryzyko zacięcia broni bądź niewypału ze względu na złe ładowanie.
+    + Możliwe jest korzystanie z dwóch broni palnych jednoręcznych jednocześnie, bez potrzeby posiadania dodatkowej umiejętności, jednak mocno traci się przy tym na celności.
 
 ***
 
-W przypadku gdy gracz zechce odgórnie usunąć jakąś umiejętność ze swojej karty postaci może tak zrobić. W takim przypadku wszystkie punkty związane z nią przepadają bezpowrotnie (nie można zapisać sobie ich jako „punktów ujemnych na zapas”). W wypadku takiego usunięcia umiejętności można zejść poniżej początkowych dwunastu punktów i nawet w tym przypadku nie przysługuje za nie zwrot.
-
-***
-
-Spis umiejętności:
-- Języki
-	- Znajomość języka: X [1/1] - znajomość języka X na dowolnym stopniu zaawansowania.
-- Walka
-	- Ofensywne:
-		- Obsługa maszyn oblężniczych: X
-		- Posługiwanie się materiałami wybuchowymi
-		- Walka bronią drzewcową: X
-		- Walka bronią obuchową: X
-		- Walka bronią sieczną: X
-		- Walka w siodle: X
-		- Walka wręcz
-		- Walka z pomocą broni pomocniczej: X
-		- Walka z użyciem broni dystansowej: X
-		- Walka z użyciem broni miotanej: X
-		- Walka z użyciem broni nietypowej: X
-		- Walka z użyciem broni palnej: X
-		
-		W przypadku umiejętności zawierających „X” w nazwie przed ich wyborem należy zadecydować o dokładnym typie do którego odnosi się umiejętność, np. w przypadku walki bronią sieczną należy wybrać jeden z rodzajów broni siecznej, w tym przykładzie niech będzie to miecz dwuręczny. Wtedy w karcie postaci należy zapisać „Walka bronią sieczną: miecz dwuręczny”
-	- Defensywne:
-		- Akrobatyka
-		- Wykorzystywanie tarczy
-		- Znajomość i zastosowanie zbroi ciężkich
-		- Znajomość i zastosowanie zbroi średnich
-		- Znajomość i zastosowanie zbroi lekkich
-- Magia
-	- Potencjał magiczny
-	- Szkoły magiczne:
-		- Iluzja
-		- Odrzucenie
-		- Przemiana
-		- Przywołanie
-		- Przywrócenie
-		- Poznanie
-		- Zaklinanie
-		- Zniszczenie
-		
-	Aby móc rozpocząć naukę jakiejkolwiek szkoły magii, gracz musi zainwestować 5 punktów w umiejętność "Potencjał magiczny". Rozwój kolejnych poziomów szkół magicznych odbywa się na tych samych zasadach, co umiejętności fizyczne. Dodatkowo na poziomy mistrza i arcymistrza należy przygotować odpowiednie "prace naukowe". Potencjał magiczny sam w sobie nie jest szkołą magiczną, jedynie umiejętnością pomocniczą.
-- Przystosowanie
-	- Fałszerstwo
-	- Jeździectwo
-	- Otwieranie zamków
-	- Skradanie się
-	- Tresura
-- Nauka
-	- Alchemia
-	- Ciesielstwo
-	- Garbarstwo
-	- Geologia
-	- Inżynieria
-	- Kowalstwo
-	- Medycyna
-	- Płatnerstwo
-	- Rusznikarstwo
-	- Zielarstwo
-	- Zoologia
-- Dodatkowe
-
-	Jako umiejętności dodatkowe rozumiemy gotowanie, wędkarstwo, granie w karty itp. Nie są one punktowane ani stopniowane, każdy gracz może wpisać dowolną ilość umiejętności dodatkowych. Rada zastrzega sobie prawo do kontroli umiejętności dodatkowych oraz nakazania podmiotowi modyfikacji wpisanych zdolności.
-	
-***
-
-Jeśli gracz uważa, że konkretna umiejętność powinna zostać dodana do oficjalnego spisu, powinien niezwłocznie zgłosić się do rady z przygotowanym szablonem umiejętności zawierającym:
-- Nazwę
-- Krótki opis
-- Zdolności i możliwości, jaka owa umiejętność daje (z rozróżnieniem na poziomy)
-
-Rada zastrzega sobie prawo do odrzucenia zaproponowanej umiejętności bez podania wytłumaczenia.
-
-***
+### Defensywne {#defensywne-12} ##
