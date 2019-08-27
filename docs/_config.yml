@@ -1,0 +1,5 @@
+theme:
+    jekyll-theme-minimal
+include:
+    index.md
+    system_umiejetnosci.md
