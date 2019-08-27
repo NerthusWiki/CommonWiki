@@ -1,7 +1,7 @@
 # System Umiejętności #
 
 ## Opis ##
-System Umiejętności (SU) to standard zarządzania zdolnościami opisywanymi w Karcie Postaci. Obowiązuje wszystkich graczy odgrywających postać na Nerthusie. Jest systemem nadrzędnym wobec Systemu Magii (SM). Zarządza nim, utrzymuje i aktualizuje Rada Fabularna świata Nerthus.
+System Umiejętności (SU) to standard zarządzania zdolnościami opisywanymi w [Karcie Postaci](https://nerthuswiki.github.io/CommonWiki/files/ups.html). Obowiązuje wszystkich graczy odgrywających postać na Nerthusie. Jest systemem nadrzędnym wobec [Systemu Magii](https://nerthuswiki.github.io/CommonWiki/files/ups.html) (SM). Zarządza nim, utrzymuje i aktualizuje [Rada Fabularna świata Nerthus](https://nerthuswiki.github.io/CommonWiki/files/ups.html).
 
 ## Treść ##
 ### Poziomy ###
