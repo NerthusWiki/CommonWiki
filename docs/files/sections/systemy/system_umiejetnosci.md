@@ -27,7 +27,7 @@ Więcej informacji o awansowaniu znajdziesz w artykule o [rozwoju postaci](https
 ### Nadawanie Punktów Umiejętności ###
 Każda postać nowego gracza otrzymuje na start 12 punktów. Gracze tworzący kolejną postać mogą wykorzystać maksymalnie połowę punktów swojej poprzedniej postaci (zaokrąglając w górę).
 
-> **Ważne!** Punkty niewykorzystane w trakcie tworzenia nowej postaci przepadają bezpowrotnie.
+ **Ważne!** Punkty niewykorzystane w trakcie tworzenia nowej postaci przepadają bezpowrotnie.
 
 Punkty rozliczane są miesięcznie.
 Każdy gracz może przydzielić sobie jeden punkt, o ile będzie aktywny. Aby zostać uznanym za aktywnego, należy spełnić w danym miesiącu jeden z dwóch warunków:
