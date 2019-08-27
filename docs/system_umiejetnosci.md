@@ -116,6 +116,7 @@ Jeśli gracz uważa, że konkretna umiejętność powinna zostać dodana do ofic
 - Nazwę
 - Krótki opis
 - Zdolności i możliwości, jaka owa umiejętność daje (z rozróżnieniem na poziomy)
+
 Rada zastrzega sobie prawo do odrzucenia zaproponowanej umiejętności bez podania wytłumaczenia.
 
 ***
